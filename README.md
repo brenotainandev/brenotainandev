@@ -1,4 +1,4 @@
-Olá, me chamo Breno Tainan, sou de Vitória da Coquista - Bahia, Brasil e sou estudante de Sistemas de Informação no [IFBA](https://portal.ifba.edu.br/conquista), e Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+Olá, me chamo Breno Tainan, sou de Vitória da Conquista - Bahia, Brasil e sou estudante de Sistemas de Informação no [IFBA](https://portal.ifba.edu.br/conquista), e Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
 
 Meu objetivo é aprender, aplicar e aprimorar, cada vez mais, conhecimentos na área de programação. 
 
