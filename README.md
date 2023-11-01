@@ -1,10 +1,8 @@
-Olá, me chamo Breno Tainan, sou de Vitória da Conquista - Bahia, Brasil e sou estudante de Sistemas de Informação no [IFBA](https://portal.ifba.edu.br/conquista), e Desenvolvimento de Software na [Trybe](https://www.betrybe.com/), uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software, com muito trabalho em equipe e mão na massa, tenho estudado bastante JavaScript, React, NodeJS, MySQL, CSS, HTML, Docker, Typescript e MongoDB.
+Olá, me chamo Breno Tainan, sou de Vitória da Conquista - Bahia, Brasil e sou um desenvolvedor web full stack com habilidades em Java, Angular e Spring. Minha formação em Desenvolvimento de Software pela [Trybe](https://www.betrybe.com/) me proporcionou conhecimentos abrangentes em JavaScript, React, NodeJS, MySQL, CSS, HTML, Typescript, MongoDB e Docker.
 
-Meu objetivo é aprender, aplicar e aprimorar, cada vez mais, conhecimentos na área de programação.
+Atualmente, estou aprimorando meus conhecimentos enquanto estudo Sistemas de Informação no [IFBA](https://portal.ifba.edu.br/conquista). Minha paixão pela tecnologia é a força motriz que me inspira a aprender e aplicar novas tecnologias, constantemente buscando aprimorar a qualidade do meu trabalho.
 
-Gosto bastante também da área de Marketing, sou diretor de marketing, CO-Fundador da B-Tech Jr, empresa júnior do curso de SI do IFBA Campus Vitória da Conquista.
-
-Sou apaixonado por tecnologia e sempre quero aprender coisas novas :)
+Com experiência em todas as etapas do ciclo de vida de desenvolvimento de software, desde a análise de requisitos até o deploy e a manutenção das aplicações, estou comprometido em trabalhar em equipe e encontrar soluções inovadoras e eficientes para atender às necessidades do projeto.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenotainandev&show_icons=true&theme=radical)
